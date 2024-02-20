@@ -1,0 +1,47 @@
+body{
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,0.0032387955182072714) 0%, rgba(247,247,0,1) 100%);
+    font: normal 20pt italic;
+
+}
+
+header{
+    color: rgba(0, 0, 0, 0.589);
+    text-align: center;
+
+    
+}
+
+section{
+    padding: 3%;
+    width: 450px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.274);
+}
+
+#txtano{
+    background-color: rgb(255,255,255);
+    border-radius: 10px;
+    text-align: center;
+}
+
+#res{
+    padding: 5%;
+    text-align: center;
+    margin-inline: 10px;
+}
+
+#button{
+    background-color: white;
+    width: 100px;
+    margin: auto;
+    display:flex; 
+    justify-content:center;
+    align-items:center;
+    border-radius:10px;
+    cursor: pointer;
+
+}
+
+
+
